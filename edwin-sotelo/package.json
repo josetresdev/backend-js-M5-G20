@@ -1,0 +1,18 @@
+{
+  "name": "tarea-dos",
+  "version": "1.2.0",
+  "description": "Mi primer proyecto con NodeJS y NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tarea",
+    "-",
+    "actividad",
+    "-",
+    "estudio"
+  ],
+  "author": "Edwin Sotelo",
+  "license": "ISC"
+}
