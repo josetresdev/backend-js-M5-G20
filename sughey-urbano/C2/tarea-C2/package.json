@@ -1,0 +1,21 @@
+{
+  "name": "tarea-c2",
+  "version": "1.2.0",
+  "description": "Esta es la descripción del proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "tarea",
+    "start": "node index.js",
+    "watch": "nodemon index.js"
+  },
+  "repository": {
+    "type": "module",
+    "url": "sughey-urbano"
+  },
+  "author": "sughey-urbano",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.1.11",
+    "nodemon": "^3.1.0"
+  }
+}
