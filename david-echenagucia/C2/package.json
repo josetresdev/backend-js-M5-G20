@@ -1,0 +1,21 @@
+{
+  "name": "proyecto-tarea-c2",
+  "version": "1.0.0",
+  "description": "Esta es la descripción del proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "watch": "nodemon index.js"
+  },
+  "keywords": [
+    "tarea-actividad-estudio"
+  ],
+  "author": "David Echenagucia",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chance": "^1.1.11",
+    "nodemon": "^3.1.0"
+  }
+}
