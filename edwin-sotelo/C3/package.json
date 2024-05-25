@@ -1,0 +1,13 @@
+{
+  "name": "c3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async.js",
+  "type": "module",
+  "scripts": {
+    "start": "node init.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
