@@ -14,12 +14,7 @@ console.log("La suma total de edades es:", totalEdades);
 
 
 // Calcula el promedio de edad de los estudiantes.
-let sumaEdades = 0;
-for (let i = 0; i < estudiantes.length; i++) {
-    sumaEdades += estudiantes[i].edad;
-  }
-  const totalEstudiantes = estudiantes.length;
-  const promedioEdad = sumaEdades / totalEstudiantes;
-  console.log(`El promedio de edad es: ${promedioEdad} años`);
+const promEdad = totalEdades/ estudiantes.length;
+console.log(`El promedio de edad es: ${promEdad} años`);
 
   
