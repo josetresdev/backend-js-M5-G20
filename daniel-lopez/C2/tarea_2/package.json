@@ -1,0 +1,18 @@
+{
+  "name": "tarea_2",
+  "version": "1.0.0",
+  "description": "tarea_2",
+  "main": "tarea_2.js",
+  "scripts": {
+    "test": "tarea_2",
+    "start": "node index.js",
+    "watch": "nodemon index.js"
+  },
+  "author": "daniel_lopez",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chance": "^1.1.11",
+    "nodemon": "^3.1.1"
+  }
+}
