@@ -1,0 +1,16 @@
+{
+  "name": "tarea_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "init.js",
+  "type": "module",
+  "scripts": {
+    "start": "node init.js",
+    "dev": "nodemon init.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "author": "",
+  "license": "ISC"
+}
