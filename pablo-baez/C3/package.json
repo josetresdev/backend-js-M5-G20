@@ -1,0 +1,21 @@
+{
+  "name": "tarea3",
+  "version": "1.2.0",
+  "description": "tarea3",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node init.js",
+    "watch": "nodemon async.js"
+  },
+  "keywords": [
+    "tarea"
+  ],
+  "author": "Pablo Baez",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  }
+  
+}
