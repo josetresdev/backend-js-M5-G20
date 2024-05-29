@@ -28,7 +28,7 @@ function main() {
         console.log("Ejem < 5 > < + > < 3 >");
         return;
     }
-
+    //numeros
     const num1 = parseFloat(args[0]);
     const operador = args[1];
     const num2 = parseFloat(args[2]);
