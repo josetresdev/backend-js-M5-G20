@@ -32,5 +32,5 @@ Operadores significados:
 "+"= suma
 "-"= resta
 "*"= multiplicación
-"+"= División
+"+"= División 
 
