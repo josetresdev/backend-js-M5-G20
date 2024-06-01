@@ -1,0 +1,15 @@
+{
+  "name": "tarea6",
+  "version": "1.0.0",
+  "description": "tarea6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "william",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.1.11",
+    "nodemon": "^3.1.2"
+  }
+}
