@@ -5,9 +5,11 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-   "start": "node init.js"
+    "start": "node init.js"
   },
   "author": "Sughey Urbano",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
 }
-
