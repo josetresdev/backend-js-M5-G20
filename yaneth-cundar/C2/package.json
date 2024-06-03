@@ -1,0 +1,17 @@
+{
+  "name": "tarea2",
+  "version": "1.2.0",
+  "description": "Tareas y prácticas",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon index.js"
+  },
+  "author": "Yaneth Cundar",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.1.11",
+    "nodemon": "^3.1.0"
+  }
+}
