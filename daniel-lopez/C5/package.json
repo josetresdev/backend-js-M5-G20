@@ -1,0 +1,15 @@
+{
+  "name": "numeros-pares",
+  "version": "1.0.0",
+  "description": "Proyecto para generar números y detectar pares en Node.js",
+  "main": "index.js",
+  "scripts": {
+    "generate-file": "nodemon generator.js",
+    "find-even-number": "nodemon find.js"
+  },
+  "author": "Tu Nombre",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
