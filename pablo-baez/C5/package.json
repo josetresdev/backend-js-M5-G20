@@ -1,0 +1,20 @@
+{
+  "name": "c5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate-file": "node generator.js",
+    "find-even-number": "node find.js",
+    "generate-file-nodemon": "nodemon generator.js",
+    "find-even-number-nodemon": "nodemon find.js",
+    "start": "node find.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
