@@ -1,0 +1,17 @@
+{
+  "name": "tarea-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate-file": "node generator.js",
+    "find-even-number": "node find.js",
+    "dev:generate-file": "nodemon generator.js",
+    "dev:find-even-number": "nodemon find.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
