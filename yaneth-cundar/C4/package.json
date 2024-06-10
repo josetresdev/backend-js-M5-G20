@@ -1,0 +1,12 @@
+{
+  "name": "calculadora",
+  "version": "1.2.0",
+  "description": "calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "author": "yanethcundarmelo",
+  "license": "ISC"
+}
