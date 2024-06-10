@@ -10,7 +10,7 @@ Retorna la lista de todos los estudiantes.
 - **URL**: `http://localhost:3002/students`
 - **Método**: GET
 
-### GET /products/:id
+### GET /students/:id
 Retorna los detalles de un estudiante específico basado en el ID.
 
 - **URL**: `http://localhost:3002/students/:id`
@@ -18,7 +18,7 @@ Retorna los detalles de un estudiante específico basado en el ID.
 - **Parámetros**: 
   - `id` (número): ID del estudiante que deseas obtener.
 
-### DELETE /products/:id
+### DELETE /students/:id
 Elimina un estudiante específico basado en el ID.
 
 - **URL**: `http://localhost:3002/students/:id`
