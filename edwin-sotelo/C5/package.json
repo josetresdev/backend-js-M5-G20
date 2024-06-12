@@ -1,0 +1,12 @@
+{
+  "name": "generador-numeros",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate-file": "node generator.js",
+    "find-even-number": "node find.js"
+  },
+  "author": "edwin-sotelo",
+  "license": "ISC"
+}
