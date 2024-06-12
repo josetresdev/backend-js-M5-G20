@@ -1,0 +1,11 @@
+{
+  "name": "tarea-clase6",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
