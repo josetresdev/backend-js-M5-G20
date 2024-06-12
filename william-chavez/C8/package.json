@@ -1,0 +1,19 @@
+{
+  "name": "tarea-clase8",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "description": "Esta es una API básica para gestionar una lista de productos utilizando Node.js y la librería `http`.",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
