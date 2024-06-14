@@ -1,0 +1,25 @@
+# Dependencias instaladas
+/ módulos_nodo
+
+# Archivos de registro y datos
+* .registro
+npm-debug.log *
+hilo-debug.log *
+hilo-error.log *
+pids
+* .pid
+* .semilla
+* .pid.bloqueo
+
+# Carpeta de compilación
+/ construir
+
+# Carpeta de cobertura generada en pruebas
+/ cobertura
+
+# Carpeta .env
+.env
+
+# Archivos generados por el sistema operativo
+.DS_Tienda
+Pulgares.db
